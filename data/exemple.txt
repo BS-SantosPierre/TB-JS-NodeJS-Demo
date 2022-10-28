@@ -1,0 +1,21 @@
+
+@Component()
+class Person {
+	constructor() {
+
+	}
+}
+
+@Component()
+class Person {
+	constructor() {
+
+	}
+}
+
+@Component()
+class Person {
+	constructor() {
+
+	}
+}

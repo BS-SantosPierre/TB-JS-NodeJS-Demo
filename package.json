@@ -1,0 +1,23 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Ceci est un paquet node",
+  "main": "index.js",
+  "scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
